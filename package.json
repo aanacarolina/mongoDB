@@ -1,0 +1,26 @@
+{
+  "name": "mongoDB",
+  "version": "1.0.0",
+  "description": "Entregável Semana 13 reprograma",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aanacarolina/mongoDB.git"
+  },
+  "keywords": [],
+  "author": "Simara e Carol SN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aanacarolina/mongoDB/issues"
+  },
+  "homepage": "https://github.com/aanacarolina/mongoDB#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.12",
+    "nodemon": "^2.0.7"
+  }
+}
